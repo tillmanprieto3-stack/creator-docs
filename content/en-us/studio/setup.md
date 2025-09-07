@@ -7,7 +7,7 @@ Create immersive 3D experiences on Roblox with **Roblox Studio**, a free applica
 
 ## System requirements
 
-<table style={{width: '75%'}} size="small">
+<table style={{width: '75%'}} size="small">75
 <thead>
 <tr>
 <th></th>
